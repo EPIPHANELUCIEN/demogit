@@ -1,0 +1,20 @@
+.a{
+background-color: yellowgreen;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 100px;
+}
+
+.b{
+background-color: greenyellow;
+box-sizing: 50% 50%;
+font-family: cooper;
+font-size: 50px;
+}
+
+.c{
+background-color: palevioletred;
+color: red;
+font-size: 80px;
+font-style: italic;
+}
+
